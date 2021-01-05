@@ -4,13 +4,10 @@ is a virtual assistant AI technology developed by Kudzanai, It is capable of voi
 
 
 
-## Use the env variable in the repo
+## set up virtual env
+- // make sure you have python 3.6 and below for pyaudio to install correctly in my case l have all so l select the one l want to use, so for windows l had to pass the path when   creating virtual env
 
-## else:
-
- // make sure you have python 3.6 and below for pyaudio to install correctly in my case l have all so l select the one l want to use, so for windows l had to pass the path when creating virtual env
-
-- virtualenv --python=c:\Python36\python.exe env36
+- virtualenv --python=c:\Python36\python.exe env36  //path for python 3.6 exe executable
 
 - env36\Scripts\activate
 
