@@ -1,0 +1,7 @@
+SpeechRecognition ~= 3.8.1
+pyttsx3 ~= 2.90
+PyAudio ~= 0.2.11
+pywhatkit ~= 3.2
+wikipedia ~= 1.4.0
+weather-forecast ~= 0.49
+horoscope ~= 1.0.6
